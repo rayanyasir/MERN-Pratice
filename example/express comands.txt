@@ -1,0 +1,17 @@
+npm i --legacy-peer-deps  --force         agr koi project clone kr re ho ap boht saal bad  unko eror sa bachane kaliya
+
+nvm   use to switch node versions   
+--save use to add package (packagename) at the file
+
+req.query
+req.body   inma frontend sa data akse le sakte hain or kis kis query ka sath ya work krte hain   
+
+
+
+joi validator 
+
+router controller service model 
+
+npm i pg dotenv sequalize
+
+bcrypt uuid
